@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: SCA Scan Using Curl Script
+name: SCA Scan Using Curl Script - Custom Tojen
 
 # Controls when the workflow will run
 on:
